@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh -i /home/plnxtqube/Desktop/Inventory/deployment.pem ubuntu@43.204.235.192 'bash /home/ubuntu/myscript.sh'
